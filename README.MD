@@ -32,7 +32,7 @@ Awards should target an expenditure level of approximate $50k in their initial p
 ### Open Source and IPR:
 The Alliance is especially interested in proposals that produce concrete outcomes like smart contracts, protocol specifications and open source code. Source code produced as part of a grant execution will be open sourced under the Trusted IoT Alliance IPR policy under the Apache 2.0 license.
 
-###Selection of Proposals
+### Selection of Proposals
 Proposals from the general public should anticipate forming partnerships with a Trusted IoT Alliance member for eligibility and partnerships that involve 1 or more members
 
 Proposals will be selected by the vote of the Trusted IoT Alliance Selection committee during our January member meeting.
