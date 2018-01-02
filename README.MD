@@ -47,3 +47,5 @@ We will select among chosen proposals at our January 26th Member meeting.
 Proposers will have the oppounity to present either remotely or in person at the members meeting if feasible.
 
 Information proposals can submitted for feedback at: https://trustediot.consider.it/ for feedback and to solicit additional partners in any proposals.
+
+![IoT Ecosystem](https://github.com/Trusted-IoT-Alliance/Quantum-Foundation-Proposals/blob/master/img/QtumIOT.png?raw=true)
