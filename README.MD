@@ -1,5 +1,8 @@
 # The QTUM Foundation Trusted IoT Alliance award
 
+![Qtum + Trusted Iot][../img/QTUM_TIOTA.png]
+
+
 The Trusted IoT Alliance in collaboration with the Qtum Foundation are expanding the blockchain communities understanding of what use cases, reference architectures, and smart contracts built on top of Qtum protocol work best for IoT and edge computing uses.
 
 ### Goals
