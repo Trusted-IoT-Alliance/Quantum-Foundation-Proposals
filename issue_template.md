@@ -14,6 +14,6 @@ Detailed system testing of features of the Qtum protocol in an IoT context would
 
 Proposals should lay out a target budget and use of funds.
 
-We will select among chosen proposals at our January 26th Member meeting.
+Proposals selection is on going.
 
 Proposers will have the oppounity to present either remotely or in person at the members meeting if feasible.
